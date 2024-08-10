@@ -1,0 +1,7 @@
+config BR2_PACKAGE_PYTHON_PYFRAMEBUFFER
+	bool "python-pyframebuffer"
+	help
+	  A linux framebuffer primitives library written
+	  in C and Python.
+	  
+	  https://github.com/RossAdrian/pyframebuffer
